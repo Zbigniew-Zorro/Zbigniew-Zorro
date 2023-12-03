@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zbigniew
+- 👋 Hi, I’m @Zbigniew-Zorro
 - 👀 I’m interested in electricity
 - 🌱 I’m currently learning Pyton, Kotlin, C++
 
